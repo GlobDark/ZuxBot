@@ -1,2 +1,1 @@
-# ZuxBot
-ZuxBot - Discord Bot
+# Updating bot to discord v13
