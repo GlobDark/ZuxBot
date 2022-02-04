@@ -1,0 +1,2 @@
+# ZuxBot
+ZuxBot - Discord Bot
