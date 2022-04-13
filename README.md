@@ -1,1 +1,1 @@
-# Updating bot to discord v13
+# soon... :v
